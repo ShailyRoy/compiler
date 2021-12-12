@@ -1,3 +1,20 @@
+/*
+3
+[a-c]{3}cab+(da)*f
+db*a[^def]{2}gh
+def[k-p]*p+
+5
+defkmnpmpp
+acbcabbf
+pqrstdd
+dbaabggh
+dbbbbamkgh
+
+*/
+
+
+//Author: Shaily Roy
+
 import java.util.*;
 import java.io.*;
 
