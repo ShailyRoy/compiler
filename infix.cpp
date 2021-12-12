@@ -1,6 +1,19 @@
 //author: Shaily Roy
 
 
+
+/*
+input
+3
+a = 1
+b = 2
+c = 2
+2
+( a ^ b ) x b + a x c + b x c
+a x c - b b / c + c x c
+
+*/
+
 #include<bits/stdc++.h>
 #include<fstream>
 #include<stdlib.h>
